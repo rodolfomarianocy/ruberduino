@@ -37,7 +37,7 @@ void setup() {
   delay(500);
   /*acionando enter*/
   typeKey(KEY_RETURN);
-/*acabando*/
+  /*acabando*/
   Keyboard.end();
 }
 void loop(){
